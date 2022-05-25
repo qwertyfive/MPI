@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1652649786 source:c:\users\Андрій\desktop\mpi\main.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<vector>
+	<mpi.h>
+

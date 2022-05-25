@@ -1,0 +1,2 @@
+This poligon is inside Circle
+0.167743
